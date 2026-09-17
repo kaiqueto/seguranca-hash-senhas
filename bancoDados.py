@@ -14,3 +14,6 @@ cur = con.cursor()
 
 # executar o comando SQL para criar a tabela
 cur.execute(sql_create)
+
+
+

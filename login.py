@@ -1,5 +1,5 @@
 import re;
-def menu():
+def mostrarMenu():
     menu ={
         "1": "Login",
         "2": "Validação de senha",
@@ -37,4 +37,3 @@ def verificarSenha(senha):
     else:
         return False
 
-menu()
